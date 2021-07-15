@@ -4,7 +4,7 @@ extract pic with skeleton by pytorch-openpose(https://github.com/Hzzone/pytorch-
 
 the environment installation and model downloading refers https://github.com/Hzzone/pytorch-openpose
 
-To extract HMDB51 with pytorch-openpose:
+# To extract HMDB51 with pytorch-openpose:
 
 flags: PATH_ORG : the path of your dataset(RGB)   PATH_TARGET : the path of your extracted dataset to save
 
