@@ -19,3 +19,6 @@ python rebuild_UCF101.py   PATH_ORG   PATH_TARGET
 # NTU-RGB-D
 
 python rebuild_ntu.py      PATH_ORG   PATH_TARGET
+
+examples:
+！[example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/example.jpg)
