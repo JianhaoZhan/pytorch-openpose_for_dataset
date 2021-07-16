@@ -2,7 +2,7 @@
 
 extract pic with skeleton by [pytorch-openpose](https://github.com/Hzzone/pytorch-openpose)
 
-the environment installation and model downloading refers [environment]https://github.com/Hzzone/pytorch-openpose
+the environment installation and model downloading refers [environment](https://github.com/Hzzone/pytorch-openpose)
 
 # To extract HMDB51 with pytorch-openpose:
 
@@ -22,7 +22,7 @@ flags: PATH_ORG : the path of your dataset(RGB)   PATH_TARGET : the path of your
 ```
   ![example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/example.jpg)
 
-  you can alse extract using the .skeleton file provided by [NTU-RGB-D]https://rose1.ntu.edu.sg/dataset/actionRecognition/ to get RGB files with skeleton, and the figure as follows :
+  you can alse extract using the .skeleton file provided by [NTU-RGB-D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) to get RGB files with skeleton, and the figure as follows :
   
   ![example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/others.jpg)
 
