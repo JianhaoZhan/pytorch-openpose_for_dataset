@@ -6,7 +6,7 @@ the environment installation and model downloading refers [environment](https://
 
 # To extract HMDB51 with pytorch-openpose:
 
-flags: PATH_ORG : the path of your dataset(RGB)   PATH_TARGET : the path of your extracted dataset to save
+flags: PATH_ORG : the path of your dataset(RGB); PATH_TARGET : the path of your extracted dataset to save.
 
 # HMDB51
 ```python
