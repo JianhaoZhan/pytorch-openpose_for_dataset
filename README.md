@@ -10,15 +10,19 @@ flags: PATH_ORG : the path of your dataset(RGB)   PATH_TARGET : the path of your
 
 # HMDB51
 
-python rebuild_HMDB51.py   PATH_ORG   PATH_TARGET
+  python rebuild_HMDB51.py   PATH_ORG   PATH_TARGET
 
 # UCF101
 
-python rebuild_UCF101.py   PATH_ORG   PATH_TARGET
+  python rebuild_UCF101.py   PATH_ORG   PATH_TARGET
 
 # NTU-RGB-D
 
-python rebuild_ntu.py      PATH_ORG   PATH_TARGET
+  python rebuild_ntu.py      PATH_ORG   PATH_TARGET
 
-examples:
 ![example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/example.jpg)
+
+  you can alse extract using the .skeleton file provided by https://rose1.ntu.edu.sg/dataset/actionRecognition/ , and the figure as follows :
+  ![example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/others.jpg)
+
+if you want to get that, you can follow our another repository [ntu_extract_org](https://github.com/JianhaoZhan/ntu_extract_org)
