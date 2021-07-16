@@ -20,9 +20,10 @@ flags: PATH_ORG : the path of your dataset(RGB)   PATH_TARGET : the path of your
 
   python rebuild_ntu.py      PATH_ORG   PATH_TARGET
 
-![example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/example.jpg)
+  ![example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/example.jpg)
 
   you can alse extract using the .skeleton file provided by https://rose1.ntu.edu.sg/dataset/actionRecognition/ to get RGB files with skeleton, and the figure as follows :
+  
   ![example](https://github.com/JianhaoZhan/pytorch-openpose_for_dataset/blob/main/others.jpg)
 
-if you want to get that, you can follow our another repository [ntu_extract_org](https://github.com/JianhaoZhan/ntu_extract_org)
+  if you want to get that, you can follow our another repository [ntu_extract_org](https://github.com/JianhaoZhan/ntu_extract_org)
